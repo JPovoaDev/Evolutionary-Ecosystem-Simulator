@@ -70,7 +70,7 @@ The simulation follows the life cycle of entities within the ecosystem:
 ### PApplet Based Interface - Click on the image to watch a run of the simulation on Youtube
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=r6bkUB3pCgs">
+  <a href="https://www.youtube.com/watch?v=yE3bjuNOxGQ">
     <img src="src/data/gameWindows.png">
   </a><br>
   <em>Visualizing the game interface: graphs and main game window.</em>
